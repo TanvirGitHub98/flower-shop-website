@@ -1,0 +1,23 @@
+
+/* nav-style */
+.navigation-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.nav-menu{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    
+}
+.nav-link{
+    text-decoration: none;
+}
+.cart-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

@@ -197,3 +197,32 @@ body
     top: -140px;
 
 }
+
+
+/* Latest deal style */
+
+.latest-deal-section{
+    margin-top: 134px;
+    display: flex;
+    margin: 0 auto;
+}
+.latest-deal-title{
+    text-align: center;
+    font-weight: 800;
+    font-size: 3.12rem;
+    margin-bottom: 16px;
+}
+.latest-deal-color
+{
+    color: #E95A08;
+}
+.latest-deal-description
+{
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 1.37rem;
+    text-align: center;
+}
+.latest-deal-image-container{
+    display: grid;
+    
+}

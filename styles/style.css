@@ -165,3 +165,35 @@ body
     border: none;
     padding: 19px 80px;
 }
+
+/* Flower and Plants Lover Style */
+.flower-plant-lover-section
+{
+    display: flex;
+    margin-top: 210px;
+    position: relative;
+}
+.flower-plant-text-container{
+    margin-left: 60px;
+}
+.flower-plant-title{
+    font-size: 3.12rem;
+    color: #000000;
+    font-weight: 800;
+
+}
+.flower-plant-list-item{
+    color:rgba(0, 0, 0, 0.5) ; 
+    font-size: 1.37rem;
+    margin-bottom: 20px;
+    
+}
+.trusted-badge
+{
+    position: absolute;
+    width: 286px;
+    height: 286px;
+    left: 347px;
+    top: -140px;
+
+}

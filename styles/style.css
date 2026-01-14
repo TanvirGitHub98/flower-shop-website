@@ -1,3 +1,34 @@
+/* Shared Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&display=swap');
+
+.agbalumo-regular {
+  font-family: "Agbalumo", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Noto Serif */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+.noto-serif-font {
+  font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:"wdth" 100;
+}
+
+/* Font inter */
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+
+.inter-font {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
 
 /* nav-style */
 .navigation-container{
@@ -5,6 +36,10 @@
     justify-content: space-around;
     align-items: center;
     
+}
+.website-logo{
+    width: 135px;
+    height: 82px;
 }
 .nav-menu{
     display: flex;
@@ -20,4 +55,12 @@
     display: flex;
     align-items: center;
     justify-content: center;
+}
+.nav-items{
+    margin-right: 48px;
+}
+.cart-icon{
+    width: 24px;
+    height: 24px;
+    margin-right: 10px;
 }

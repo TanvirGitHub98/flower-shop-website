@@ -450,3 +450,47 @@ body
     border: none;
     color: #FFFFFF;
 }
+
+
+/* Footer section */
+.footer-section{
+    width: 1140px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.company-container{
+    width: 359px;
+}
+.menu-container{
+    display: flex;
+    gap: 110px;
+}
+.comapny-desc
+{
+    font-size: 1.35rem;
+    color: rgba(0, 0, 0, 0.5);
+}
+.menu-list-items
+{
+    list-style: none;
+    margin-bottom: 32px;
+}
+.menu-link{
+    text-decoration: none;
+    color: #6B7280;
+    font-size: 1rem;
+  
+    text-align: center;
+}
+.social-media-container img{
+    width: 36px;
+    height: 36px;
+}
+.social-media-container
+{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
